@@ -8,8 +8,6 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Impressum</h1>
-
     <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
     <p>Markus Paeschke<br />
     Weserstr. 39a<br />
